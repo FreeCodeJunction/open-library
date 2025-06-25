@@ -8,6 +8,12 @@ Open Lobrary is a full-stack gardening tips platform where users can explore boo
 
 ---
 
+## Live site & Relavent links
+
+**Live Site URL**: [https://openlibrary-31653.web.app/](https://openlibrary-31653.web.app/)
+
+**Server Code**: [https://servercode.com](https://servercode.com)
+
 ## 🚀 Tech Stack
 
 ### 🔹 Frontend
