@@ -48,10 +48,10 @@
   "tailwindcss": "^3.x.x",
   "firebase": "^10.x.x"
 }
+```
 
 
 ### Server (`/server`)
-
 ```json
 {
   "express": "^4.x.x",
@@ -60,3 +60,4 @@
   "dotenv": "^16.x.x",
   "jsonwebtoken": "^9.x.x"
 }
+```
