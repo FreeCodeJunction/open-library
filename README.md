@@ -1,6 +1,6 @@
 # 🌐 Open Library
 
-![Project Screenshot](https://via.placeholder.com/1200x600.png?text=Project+Screenshot)
+![Open Library](./open-library.png)
 
 ## 🧾 Overview
 
