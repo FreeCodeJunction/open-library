@@ -116,7 +116,10 @@ npm start
 cd ../client
 npm run dev
 ```
-<p>Visit: http://localhost:3000 </p>
+### 5Visit
+```
+http://localhost:3000
+```
 
 
 
