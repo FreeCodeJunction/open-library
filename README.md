@@ -4,7 +4,7 @@
 
 ## 🧾 Overview
 
-Open Lobrary is a full-stack web application built to . It provides a user-friendly interface and secure backend services to deliver a seamless experience.
+Open Lobrary is a full-stack gardening tips platform where users can explore books, borrow books, connect with others. The site supports authentication, CRUD functionalities, filtering, and user-specific experiences.
 
 ---
 
