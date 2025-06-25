@@ -74,8 +74,8 @@ Open Lobrary is a full-stack gardening tips platform where users can explore boo
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/your-username/your-project.git
-cd your-project
+git clone https://github.com/FreeCodeJunction/open-library.git
+cd open-library
 ```
 
 ### 2. Install Dependencies
