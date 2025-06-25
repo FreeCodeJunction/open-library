@@ -79,3 +79,45 @@ cd client
 npm install
 ```
 
+ - server
+```bash
+cd ../server
+npm install
+```
+
+### 3. Setup Environment Variables
+
+ - client
+
+```
+VITE_FIREBASE_API_KEY=your_api_key
+VITE_FIREBASE_AUTH_DOMAIN=your_auth_domain
+```
+
+ - server
+
+```
+PORT=5000
+MONGODB_URI=your_mongo_uri
+JWT_SECRET=your_jwt_secret
+```
+
+### 4. Start Servers
+
+
+ - server 
+```bash
+cd server
+npm start
+```
+
+ - client
+```bash
+cd ../client
+npm run dev
+```
+<p>Visit: http://localhost:3000 </p>
+
+
+
+
