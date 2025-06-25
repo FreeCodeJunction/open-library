@@ -1,10 +1,10 @@
-# 🌐 Project Name - [Your Project Title Here]
+# 🌐 Open Library
 
 ![Project Screenshot](https://via.placeholder.com/1200x600.png?text=Project+Screenshot)
 
 ## 🧾 Overview
 
-[Your Project Title] is a full-stack web application built to [brief description of purpose, e.g., manage tasks, connect users, display listings, etc.]. It provides a user-friendly interface and secure backend services to deliver a seamless experience.
+Open Lobrary is a full-stack web application built to . It provides a user-friendly interface and secure backend services to deliver a seamless experience.
 
 ---
 
