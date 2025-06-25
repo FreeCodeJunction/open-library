@@ -2,41 +2,49 @@
 
 ![Project Screenshot](https://via.placeholder.com/1200x600.png?text=Project+Screenshot)
 
-## 🧾 Project Overview
+## 🧾 Overview
 
-This is a [single-page/multi-page/full-stack] web application built to [briefly describe your project’s purpose, e.g., "manage tasks", "connect users", "display products", etc.]. It provides users with a simple, clean, and intuitive UI along with secure backend functionality.
+[Your Project Title] is a full-stack web application built to [brief description of purpose, e.g., manage tasks, connect users, display listings, etc.]. It provides a user-friendly interface and secure backend services to deliver a seamless experience.
 
 ---
 
-## 🚀 Main Technology Used
+## 🚀 Tech Stack
 
-- **Frontend:** React.js + Tailwind CSS
-- **Backend:** Node.js + Express.js
-- **Authentication:** Firebase Authentication
-- **Database:** MongoDB
-- **Routing:** React Router DOM
+### 🔹 Frontend
+- React.js
+- Tailwind CSS
+- React Router DOM
+- Firebase Authentication
+
+### 🔹 Backend
+- Node.js
+- Express.js
+- MongoDB
+- JWT (JSON Web Token)
 
 ---
 
 ## 🔑 Core Features
 
-- 🔐 User Registration & Login
-- 📦 Dynamic Data Fetching & Display
-- 🧩 Protected Routes (JWT)
-- 💬 Real-time Feedback or Chat
-- 📱 Responsive UI for all device sizes
-- 🛠️ Admin Dashboard
+- 🔐 User Authentication (Login/Register with Firebase)
+- 📦 Dynamic Content Fetching (via API)
+- 🧩 JWT-Protected Routes
+- 🛠️ Admin Access / Dashboard
+- 💬 Real-time Feedback or Messaging
+- 📱 Responsive Mobile-first Design
 
 ---
 
-## 📦 Dependencies Used
+## 📦 Dependencies
 
-### Frontend
+### Client (`/client`)
 
-```bash
-"react": "^18.x.x",
-"react-dom": "^18.x.x",
-"react-router-dom": "^6.x.x",
-"axios": "^1.x.x",
-"tailwindcss": "^3.x.x",
-"firebase": "^10.x.x"
+```json
+{
+  "react": "^18.x.x",
+  "react-dom": "^18.x.x",
+  "react-router-dom": "^6.x.x",
+  "axios": "^1.x.x",
+  "tailwindcss": "^3.x.x",
+  "firebase": "^10.x.x"
+}
